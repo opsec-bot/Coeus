@@ -10,11 +10,6 @@
     <a href="https://github.com/opsec-bot/Coeus"><strong>Explore the docs »</strong></a>
     <br/>
     <br/>
-    <a href="https://github.com/opsec-bot/Coeus">View Demo</a>
-    .
-    <a href="https://github.com/opsec-bot/Coeus/issues">Report Bug</a>
-    .
-    <a href="https://github.com/opsec-bot/Coeus/issues">Request Feature</a>
   </p>
 </p>
 
