@@ -37,3 +37,5 @@ If you would like to use this please contact me via telegram requesting that you
 If you would like to contribute to this massive list we have, please contact me via telegram specifying what you can contribute and why you want to.
 
 My telegram is [Atlas900](https://t.me/Atlas900).
+
+Discord server [here](https://discord.gg/EqUcuUUfhw)
