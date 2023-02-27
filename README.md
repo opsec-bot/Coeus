@@ -6,9 +6,6 @@
 
   <h3 align="center">Coeus project, the biggest virustotal info list.</h3>
 
-
-![Stargazers](https://img.shields.io/github/stars/opsec-bot/Coeus?style=social) 
-
 ## Table Of Contents
 
 * [About the Project](#about-the-project)
