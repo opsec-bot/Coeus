@@ -19,19 +19,9 @@
 
 There is already a list made by 6nz but, i wanted something better and always growing. So i made my own!
 
-Here's the use cases:
-
-* Malware..?
-* Creating Anti-VM
-* You want to lower your detection rates
-
 ## Usage
 
-If you would like to use this please contact me via telegram requesting that you would like access to this data or the API. If you ask to use the API then you will need a valid reason.
-
-## Contributing
-
-If you would like to contribute to this massive list we have, please contact me via telegram specifying what you can contribute and why you want to.
+To use join the discord server show at the bottom!
 
 My telegram is [Atlas900](https://t.me/Atlas900).
 
