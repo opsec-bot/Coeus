@@ -25,8 +25,6 @@ There is already a list made by 6nz but, i wanted something better and always gr
 
 ## Usage
 
-To use join the discord server show at the bottom!
+(Api-Docs)[https://docs.exrip.xyz/]
 
-My telegram is [Atlas900](https://t.me/Atlas900).
 
-Discord server [here](https://discord.gg/EqUcuUUfhw)
