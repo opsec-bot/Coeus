@@ -23,6 +23,6 @@ There is already a list made by 6nz but, i wanted something better and always gr
 
 ## For the full data list please contact me via telegram 
 
-[timewrait](https://t.me/timewraith)
+[timewraith](https://t.me/timewraith)
 
 
