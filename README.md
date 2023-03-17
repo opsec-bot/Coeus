@@ -21,4 +21,8 @@ There is already a list made by 6nz but, i wanted something better and always gr
 
 [Api Docs](https://docs.exrip.xyz/)
 
+## For the full data list please contact me via telegram 
+
+[timewrait](https://t.me/timewraith)
+
 
