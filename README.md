@@ -25,6 +25,6 @@ There is already a list made by 6nz but, i wanted something better and always gr
 
 ## Usage
 
-(Api-Docs)[https://docs.exrip.xyz/]
+[Api Docs](https://docs.exrip.xyz/)
 
 
