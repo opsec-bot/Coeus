@@ -8,6 +8,8 @@
 
 ## About The Project
 
+now discontinued... 
+
 Api response
 ![Screen Shot](https://cdn.discordapp.com/attachments/1072025897210748968/1079679250367512637/image.png)
 
