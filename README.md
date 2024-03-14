@@ -1,9 +1,3 @@
-<br/>
-<p align="center">
-  <a href="https://github.com/opsec-bot/Coeus">
-    <img src="https://cdn.discordapp.com/attachments/1070855457167646845/1072359256306745414/images.png" alt="Logo" width="80" height="80">
-  </a>
-
   <h3 align="center">Coeus project, the biggest virustotal info list.</h3>
 
 ## About The Project
